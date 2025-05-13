@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 class Solution:
     def countSymmetricIntegers(self, low: int, high: int) -> int:
         res = 0  # Initialize a counter to keep track of symmetric numbers
